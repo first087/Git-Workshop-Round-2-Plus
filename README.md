@@ -88,7 +88,7 @@
 
 - **ID :** 14
 - **Name :** Kong
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
