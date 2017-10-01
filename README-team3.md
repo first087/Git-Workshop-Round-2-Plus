@@ -81,8 +81,8 @@
 ---
 
 - **ID :** 13
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** Got
+- **Gender :** M
 
 ---
 
