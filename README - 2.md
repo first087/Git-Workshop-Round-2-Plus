@@ -45,8 +45,8 @@
 ---
 
 - **ID :** 7
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** Poom
+- **Gender :** M
 
 ---
 
