@@ -22,7 +22,7 @@
 
 - **ID :** 3
 - **Name :** Aomjai
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
