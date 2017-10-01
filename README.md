@@ -40,7 +40,7 @@
 
 - **ID :** 6
 - **Name :** benz
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
