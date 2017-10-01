@@ -3,37 +3,37 @@
 #### Profiles
 
 - **ID :** 0
-- **Name :** Ethan
+- **Name :** Somchai Jaidee
 - **Gender :** M
 
 ---
 
 - **ID :** 1
-- **Name :** JDG
-- **Gender :** <M or F>
+- **Name :** Somying Jaidee
+- **Gender :** D
 
 ---
 
 - **ID :** 2
-- **Name :** King
-- **Gender :** <M or F>
+- **Name :** Monkon Jaidee
+- **Gender :** F
 
 ---
 
 - **ID :** 3
-- **Name :** Aomjai
-- **Gender :** <M or F>
+- **Name :** Sompong Jaidee
+- **Gender :** M
 
 ---
 
 - **ID :** 4
-- **Name :** Ball
-- **Gender :** <M or F>
+- **Name :** Somjai Jaidee
+- **Gender :** F
 
 ---
 
 - **ID :** 5
-- **Name :** ahe
+- **Name :** Somwang Jaidee
 - **Gender :** M
 
 ---
