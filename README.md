@@ -34,7 +34,7 @@
 
 - **ID :** 5
 - **Name :** ahe
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
