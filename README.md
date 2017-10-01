@@ -28,7 +28,7 @@
 
 - **ID :** 4
 - **Name :** Ball
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
