@@ -69,8 +69,8 @@
 ---
 
 - **ID :** 11
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** !!!Pup!!!
+- **Gender :** M
 
 ---
 
@@ -99,8 +99,8 @@
 ---
 
 - **ID :** 16
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** Gui
+- **Gender :** M
 
 ---
 
