@@ -100,7 +100,7 @@
 
 - **ID :** 16
 - **Name :** gui
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
