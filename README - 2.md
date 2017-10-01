@@ -15,8 +15,8 @@
 ---
 
 - **ID :** 2
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** King
+- **Gender :** M
 
 ---
 
