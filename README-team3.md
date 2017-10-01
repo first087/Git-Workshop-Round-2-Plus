@@ -93,7 +93,7 @@
 ---
 
 - **ID :** 15
-- **Name :** Pu Team 3
+- **Name :** Pu Team 3 A
 - **Gender :** M
 
 ---
