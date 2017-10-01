@@ -52,7 +52,7 @@
 
 - **ID :** 8
 - **Name :** Lak
-- **Gender :** <M or F>
+- **Gender :** F
 
 ---
 
