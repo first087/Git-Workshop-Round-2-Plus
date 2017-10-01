@@ -15,8 +15,8 @@
 ---
 
 - **ID :** 2
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** King
+- **Gender :** M
 
 ---
 
@@ -39,14 +39,14 @@
 ---
 
 - **ID :** 6
-- **Name :** Benz
-- **Gender :** M
+- **Name :** <name>
+- **Gender :** <M or F>
 
 ---
 
 - **ID :** 7
-- **Name :** Poom
-- **Gender :** M
+- **Name :** <name>
+- **Gender :** <M or F>
 
 ---
 
