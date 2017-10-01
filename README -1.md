@@ -39,32 +39,32 @@
 ---
 
 - **ID :** 6
-- **Name :** benz
-- **Gender :** <M or F>
+- **Name :** Jojo1
+- **Gender :** M
 
 ---
 
 - **ID :** 7
-- **Name :** Poom
-- **Gender :** <M or F>
+- **Name :** Jojo2
+- **Gender :** M
 
 ---
 
 - **ID :** 8
-- **Name :** Lak
-- **Gender :** <M or F>
+- **Name :** Jjo3
+- **Gender :** M
 
 ---
 
 - **ID :** 9
-- **Name :** Jojo
+- **Name :** Jojo4
 - **Gender :** M
 
 ---
 
 - **ID :** 10
-- **Name :** Tongzahub
-- **Gender :** <M or F>
+- **Name :** Jojo5
+- **Gender :** M
 
 ---
 
