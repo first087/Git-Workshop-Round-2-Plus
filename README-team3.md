@@ -9,97 +9,97 @@
 ---
 
 - **ID :** 1
-- **Name :** JDG
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 2
-- **Name :** King
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 3
-- **Name :** Aomjai
-- **Gender :** <M or F>
+- **Name :** ShadowStorm 
+- **Gender :** M
 
 ---
 
 - **ID :** 4
-- **Name :** Ball
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 5
-- **Name :** ahe
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 6
-- **Name :** benz
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 7
-- **Name :** Poom
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 8
-- **Name :** Lak
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 9
-- **Name :** Jojo
-- **Gender :** M
+- **Name :** <name>
+- **Gender :** <M or F>
 
 ---
 
 - **ID :** 10
-- **Name :** Tongzahub
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 11
-- **Name :** Nop
-- **Gender :** M
+- **Name :** <name>
+- **Gender :** <M or F>
 
 ---
 
 - **ID :** 12
-- **Name :** pup
-- **Gender :** M
+- **Name :** <name>
+- **Gender :** <M or F>
 
 ---
 
 - **ID :** 13
 - **Name :** Got
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
 - **ID :** 14
-- **Name :** Kong
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
 
 - **ID :** 15
-- **Name :** Pu
-- **Gender :** <M or F>
+- **Name :** Pu Team 3 A
+- **Gender :** M
 
 ---
 
 - **ID :** 16
-- **Name :** gui
+- **Name :** <name>
 - **Gender :** <M or F>
 
 ---
