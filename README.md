@@ -82,7 +82,7 @@
 
 - **ID :** 13
 - **Name :** Got
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
