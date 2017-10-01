@@ -94,7 +94,7 @@
 
 - **ID :** 15
 - **Name :** Pu
-- **Gender :** <M or F>
+- **Gender :** M
 
 ---
 
