@@ -64,8 +64,7 @@
 
 - **ID :** 10
 - **Name :** Tongzahub
-- **Gender :** <M or F>
-
+- **Gender :** M
 ---
 
 - **ID :** 11
